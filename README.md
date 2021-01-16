@@ -7,7 +7,7 @@ I am interested in the development and implementation of algorithms for large-sc
 
 - [LatticeTools.jl](https://github.com/kyungminlee/LatticeTools.jl) -- Julia package that provides functionalities to define lattices and perform symmetry analyses useful for studying interacting quantum many-body Hamiltonians.
 - [ExactDiagonalization.jl](https://github.com/kyungminlee/ExactDiagonalization.jl) -- Julia package for constructing interacting quantum many-body Hamiltonians.
-- [Particle.jl](https://github.com/kyungminlee/Particle.jl) -- Particle extension for ExactDiagonalization.jl
+- [Particle.jl](https://github.com/kyungminlee/Particle.jl) -- Particle extension for [ExactDiagonalization.jl](https://github.com/kyungminlee/ExactDiagonalization.jl).
 - [HartreeFockBogoliubov.jl](https://github.com/kyungminlee/HartreeFockBogoliubov.jl) -- Hartree-Fock-Bogoliubov solver for a generic interacting fermion Hamiltonian.
 - [GroupTools.jl](https://github.com/kyungminlee/GroupTools.jl) -- Julia package for group representation analysis.
 - [MathExpr.jl](https://github.com/kyungminlee/MathExpr.jl) -- Simple parser for mathematical expressions using Julia's parser.
