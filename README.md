@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Repositories
+
+##### Numerical Methods for Condensed Matter Theory in Julia
+
+- [LatticeTools.jl](https://github.com/kyungminlee/LatticeTools.jl)
+- [Particle.jl](https://github.com/kyungminlee/Particle.jl)
+- [HartreeFockBogoliubov.jl](https://github.com/kyungminlee/HartreeFockBogoliubov.jl)
+- [GroupTools.jl](https://github.com/kyungminlee/GroupTools.jl)
+
+##### Helper Packages
+- [MathExpr.jl](https://github.com/kyungminlee/MathExpr.jl)
+- [MinimalPerfectHash.jl](https://github.com/kyungminlee/MinimalPerfectHash.jl)
