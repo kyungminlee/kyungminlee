@@ -13,6 +13,8 @@ I am interested in the development and implementation of algorithms for large-sc
 - [MathExpr.jl](https://github.com/kyungminlee/MathExpr.jl)
 - [MinimalPerfectHash.jl](https://github.com/kyungminlee/MinimalPerfectHash.jl) -- [Minimal Perfect Hashing](https://en.wikipedia.org/wiki/Perfect_hash_function) using [CHD algorithm](http://cmph.sourceforge.net/papers/esa09.pdf).
 
-### Other Libraries
+### Others
 
 - [PomeranchukMonteCarlo](https://github.com/kyungminlee/PomeranchukMonteCarlo)
+- [unicode-widget](https://github.com/kyungminlee/unicode-widget)
+- [PiTensor](https://github.com/kyungminlee/PiTensor) -- (not actively maintained)
