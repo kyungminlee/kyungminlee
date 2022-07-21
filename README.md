@@ -15,6 +15,6 @@ I am interested in the development and implementation of algorithms for large-sc
 ### Others
 - [MinimalPerfectHash.jl](https://github.com/kyungminlee/MinimalPerfectHash.jl) -- [Minimal Perfect Hashing](https://en.wikipedia.org/wiki/Perfect_hash_function) using [CHD algorithm](http://cmph.sourceforge.net/papers/esa09.pdf).
 - [SuperLU.jl](https://github.com/kyungminlee/SuperLU.jl) -- Julia interface to SuperLU
-- [unicode-widget](https://github.com/kyungminlee/unicode-widget) -- Input helper for unicode characters
+- [unime](https://github.com/kyungminlee/unime) -- Input helper for unicode characters
 - [PiTensor](https://github.com/kyungminlee/PiTensor) -- Python wrapper for [ITensor](http://itensor.org/) (not actively maintained)
 - [PomeranchukMonteCarlo](https://github.com/kyungminlee/PomeranchukMonteCarlo)
